@@ -1,0 +1,8 @@
+D:\Repos\PartnerPortal\Angular\obj\Debug\PartnerPortal.UI.esproj.SuggestedBindingRedirects.cache
+D:\Repos\PartnerPortal\Angular\obj\Debug\PartnerPortal.UI.esproj.CoreCompileInputs.cache
+D:\main proj\I hold the cloud Project pushables pullables\FirstPull1\Angular\obj\Debug\PartnerPortal.UI.esproj.SuggestedBindingRedirects.cache
+D:\main proj\I hold the cloud Project pushables pullables\FirstPull1\Angular\obj\Debug\PartnerPortal.UI.esproj.CoreCompileInputs.cache
+D:\partnerportal\partnerportal\Angular\obj\Debug\PartnerPortal.UI.esproj.SuggestedBindingRedirects.cache
+D:\partnerportal\partnerportal\Angular\obj\Debug\PartnerPortal.UI.esproj.CoreCompileInputs.cache
+D:\partnerportalcurdope\partnerportal\Angular\obj\Debug\PartnerPortal.UI.esproj.SuggestedBindingRedirects.cache
+D:\partnerportalcurdope\partnerportal\Angular\obj\Debug\PartnerPortal.UI.esproj.CoreCompileInputs.cache
